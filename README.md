@@ -24,12 +24,32 @@
 ![](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,supabase)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 📌 Featured builds
-- 🧭 macOS-style Dock Navbar — proximity magnify effect
-- ⌘ Command Palette (Cmd+K)
-- 💡 Pull-cord Lamp Toggle
-- 🔐 Password Strength Detector
-- *(pin your 6 best repos here — see notes below)*
+### ⭐ Featured Builds
+
+1. 🫶 Friendship Day Card
+   * Interactive greeting card
+   * Smooth UI animations
+   * Community favourite project
+   * 🔗 Live Demo | 📂 Source Code
+
+2. 💌 Love Letter Envelope
+   * Envelope opening animation
+   * Romantic interactive UI
+   * CSS + JavaScript effects
+   * 🔗 Live Demo | 📂 Source Code
+
+3. 🎂 Birthday Card – Part 1
+   * Interactive birthday experience
+   * Smooth animations
+   * Responsive UI
+   * 🔗 Live Demo | 📂 Source Code
+
+4. 🎯 Radial Floating Action Button
+   * Modern micro-interaction
+   * CSS animations
+   * Floating menu UI
+   * 🔗 Live Demo | 📂 Source Code
+
 
 ### 📬 Find me
 - Instagram: [@storymint.studio](https://instagram.com/storymint.studio)
