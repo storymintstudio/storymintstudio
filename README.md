@@ -1,9 +1,10 @@
 # Hi, I'm Shivani 👋
 
-**Founder of [Storymint Studio](https://instagram.com/storymint.studio)** — I build UI components in vanilla HTML, CSS & JS and turn them into reels, free cheatsheets, and freelance work.
+**Founder of [Storymint Studio](https://instagram.com/storymint.studio)** — Creating interactive frontend experiences that are simple, creative, and user-friendly.
+I build UI components in vanilla HTML, CSS & JS and turn them into reels, free cheatsheets, and freelance work.
 
-🎓 BCA student | 🎯 Long-term goal: full-stack dev with AI + cloud
-🎨 I design and build every component myself — no frameworks, no shortcuts
+🎯 Exploring Full Stack Development, AI & Cloud
+🎨 I design and build interactive UI components from scratch using vanilla HTML, CSS & JavaScript.
 
 ---
 
@@ -15,7 +16,7 @@
 ### 🛠️ Skills
 
 **Programming Languages**
-![](https://skillicons.dev/icons?i=html,css,js,react)
+![](https://skillicons.dev/icons?i=html,css,js)
 
 **Databases**
 ![](https://skillicons.dev/icons?i=sqlite)
@@ -56,4 +57,4 @@
 - Cheatsheets: comment-gated on Instagram posts
 
 ---
-⭐ First drafts often start with Claude AI, then customized and crafted by hand.
+⭐ First drafts often start with AI, then customised and crafted by hand.
